@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 
 
-def test_if_else(driver, wait):
+def test_if_else_example(driver, wait):
     driver.get('https://deckshop.pro')
     driver.find_element(By.ID, 'smartSearch').send_keys('ram' + Keys.ENTER)
     wait.until(EC.presence_of_element_located((By.XPATH, "//*[@id='smartResponse']//a[text()='Best decks']"))).click()
