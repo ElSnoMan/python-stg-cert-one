@@ -51,3 +51,13 @@ Create `test_challenge2.py` and write a test that does the following:
 1. Go to copart.com
 2. Search for "exotics"
 3. Assert "PORSCHE" is in the list of cars on the Results Page
+
+### Challenge 3
+---
+
+Create `test_challenge3.py` and write a test that does the following:
+
+1. Go to copart.com
+2. On the Home Page, under `Most Popular Items`, there is a `Makes/Models` section. For each Make or Model in this section, print the name of the Make or Model with its URL next to it
+
+> Example Output: `SILVERADO - https://www.copart.com/popular/model/silverado`
