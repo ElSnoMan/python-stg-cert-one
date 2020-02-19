@@ -95,3 +95,11 @@ Part 2 - Using the same, first three steps of Part 1, write a test that then doe
 > Example: `SIDE` and `ALL OVER` would each count towards `MISC`
 
 > Example Output: `REAR END: 2, FRONT END: 7, MINOR DENT/SCRATCHES: 22, UNDERCARRIAGE: 0, MISC: 4`
+
+### Challenge 6
+---
+
+1. Go to copart.com
+2. Search for 'nissan'
+3. Then for the Model, search 'skyline'. This is a rare car that might not exist
+4. If it doesn't exist, catch the exception and take a screenshot
