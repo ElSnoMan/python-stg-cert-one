@@ -12,6 +12,7 @@ To get started and follow along, make sure to setup your machine and project to 
 * Each challenge will introduce different concepts.
 * Complete each challenge and push your code to GitHub so the instructor(s) can validate.
 * Completing all challenges will get you this certification!
+* The student is familiar enough with Python, Selenium and Pytest that they can begin automating tests and solving problems.
 
 ## QUESTIONS?
 
