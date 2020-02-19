@@ -3,9 +3,9 @@
 ## Overview
 This certification is meant to introduce you to Python and Selenium for testing and automation.
 
-To get started and follow along, make sure to setup your machine and project to use Python. You can do this by following the instructions for our standardized setup:
+To get started and follow along, make sure to setup your machine and project to use Python. You can do this by following the instructions for our standardized setup in this google doc:
 
-https://docs.google.com/document/d/1kT83D6PEf_x3U7z1TRD33dPOJ_z9JjZ7PZWdaIOLyMs/edit?usp=sharing
+[Machine and Project Setup](https://docs.google.com/document/d/1kT83D6PEf_x3U7z1TRD33dPOJ_z9JjZ7PZWdaIOLyMs/edit?usp=sharing)
 
 ## GOALS
 
@@ -30,4 +30,14 @@ Also, you will have access to the code base which will provide structure and exa
 
 ### Pre-Challenge: Setup Selenium
 
+Complete the `Start Here` section of the Wiki to get everything setup: [Wiki Home Page](https://github.com/ElSnoMan/python-stg-cert-one/wiki)
+
+Now you are ready to take on the challenges!
+
 ### Challenge 1
+
+Within `test_challenge1.py`, write a new test that does the following:
+
+1. Navigate to google.com
+2. Search for “puppies”
+3. Assert that the results page that loads has “puppies” in its title
