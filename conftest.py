@@ -1,5 +1,6 @@
 import pytest
 from selenium import webdriver
+from selenium.webdriver.support.wait import WebDriverWait
 
 
 @pytest.fixture
@@ -10,3 +11,13 @@ def driver():
     yield driver
     # code after yield is run After Each test
     driver.quit()
+
+
+@pytest.fixture
+def wait(driver):
+    """ WebDriverWait allows us to wait until a condition is True.
+
+    For example, wait until an element is displayed
+    """
+    # timeout is the max number of seconds to wait for.
+    return WebDriverWait(driver, timeout=10)
