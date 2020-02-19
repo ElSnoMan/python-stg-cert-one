@@ -35,9 +35,19 @@ Complete the `Start Here` section of the Wiki to get everything setup: [Wiki Hom
 Now you are ready to take on the challenges!
 
 ### Challenge 1
+---
 
 Within `test_challenge1.py`, write a new test that does the following:
 
-1. Navigate to google.com
+1. Go to google.com
 2. Search for “puppies”
 3. Assert that the results page that loads has “puppies” in its title
+
+### Challenge 2
+---
+
+Create `test_challenge2.py` and write a test that does the following:
+
+1. Go to copart.com
+2. Search for "exotics"
+3. Assert "PORSCHE" is in the list of cars on the Results Page
