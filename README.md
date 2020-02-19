@@ -1,5 +1,4 @@
-# python-stg-cert-one
-Python WebDriver STG Certification: Level 1
+# Python WebDriver STG Certification: Level 1
 
 ## Overview
 This certification is meant to introduce you to Python and Selenium for testing and automation.
@@ -20,3 +19,15 @@ The best place to ask questions is the **#autobots** channel in our **QA Utah Sl
 
 * Matt Chiang
 * Carlos Kidman
+
+## HOW TO USE THIS REPO
+
+This README will contain the high-level overview and requirements for each challenge. However, make sure to checkout the Wiki which will contain more specific details and information about each challenge.
+
+Also, you will have access to the code base which will provide structure and examples so you can have a reference.
+
+## CHALLENGES
+
+### Pre-Challenge: Setup Selenium
+
+### Challenge 1
