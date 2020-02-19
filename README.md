@@ -22,7 +22,7 @@ The best place to ask questions is the **#autobots** channel in our **QA Utah Sl
 
 ## HOW TO USE THIS REPO
 
-This README will contain the high-level overview and requirements for each challenge. However, make sure to checkout the Wiki which will contain more specific details and information about each challenge.
+This README will contain the high-level overview and requirements for each challenge. However, make sure to checkout the Wiki which will contain more specific details and information about each challenge, if applicable.
 
 Also, you will have access to the code base which will provide structure and examples so you can have a reference.
 
