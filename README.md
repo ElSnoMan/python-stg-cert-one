@@ -99,6 +99,8 @@ Part 2 - Using the same, first three steps of Part 1, write a test that then doe
 ### Challenge 6
 ---
 
+Create `test_challenge6.py` and write a test that does the following:
+
 1. Go to copart.com
 2. Search for 'nissan'
 3. Then for the Model, search 'skyline'. This is a rare car that might not exist
