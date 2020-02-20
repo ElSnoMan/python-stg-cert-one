@@ -185,5 +185,6 @@ ___|_____________________________________________
 ```
 
 In that case, you would have a single test function that had 4 separate test cases.
+You would only need to switch out the `make`, `model` and `year` variables with the data from this table.
 
-> HINT: You can do this with Pytest's `@pytest.mark.parameratize` decorator
+> HINT: Pytest's `@pytest.mark.parameratize` decorator will be helpful once you have read the data from the file.
