@@ -156,7 +156,7 @@ Create `test_challenge8.py` and write a test that does the following:
 
 > This is an extension of Challenge 8.
 
-Create `test_challenge9.py` and write a test taht does the following:
+Create `test_challenge9.py` and write a test that does the following:
 
 1. Uses the same response as Challenge 8, but write assertions about elements in the JSON response
 2. Part of your test(s) needs to assert that those elements are of the correc Type.
