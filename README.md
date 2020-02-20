@@ -27,7 +27,7 @@ This README will contain the high-level overview and requirements for each chall
 
 Also, you will have access to the code base which will provide structure and examples so you can have a reference.
 
-## CHALLENGES
+## LEVEL 1 CHALLENGES
 
 ### Pre-Challenge: Setup Selenium
 
