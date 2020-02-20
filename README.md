@@ -1,7 +1,7 @@
 # Python WebDriver STG Certification: Level 1 & 2
 
 ## Overview
-This certification is meant to introduce you to Python and Selenium for testing and automation.
+This certification is meant to introduce you to Python and Selenium for testing (UI & API) and automation.
 
 To get started and follow along, make sure to setup your machine and project to use Python. You can do this by following the instructions for our standardized setup in this google doc:
 
