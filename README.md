@@ -113,18 +113,5 @@ Create `test_challenge7.py` and write a test that does the following:
 
 1. Go to copart.com
 2. Look at the `Makes/Models` section of the page
-3. Create a two-dimensional list that stores the names of the Make/Model as well as their URLs
-
-```python
-# two-dimensional example
-list = [
-    [0, 1],
-    [2, 3],
-    [4, 5]
-]
-
-print(list[0])     # [0, 1]
-print(list[1][0])  # 2
-```
-
+3. Create a `two-dimensional` list that stores the names of the Make/Model as well as their URLs
 4. Check that each element in this list navigates to the correct page
