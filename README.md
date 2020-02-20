@@ -127,4 +127,4 @@ print(list[0])     # [0, 1]
 print(list[1][0])  # 2
 ```
 
-4. Using this list, assert that each element in this list navigates to the correct page
+4. Check that each element in this list navigates to the correct page
