@@ -105,3 +105,26 @@ Create `test_challenge6.py` and write a test that does the following:
 2. Search for 'nissan'
 3. Then for the Model, search 'skyline'. This is a rare car that might not exist
 4. If it doesn't exist, catch the exception and take a screenshot
+
+### Challenge 7
+---
+
+Create `test_challenge7.py` and write a test that does the following:
+
+1. Go to copart.com
+2. Look at the `Makes/Models` section of the page
+3. Create a two-dimensional list that stores the names of the Make/Model as well as their URLs
+
+```python
+# two-dimensional example
+list = [
+    [0, 1],
+    [2, 3],
+    [4, 5]
+]
+
+print(list[0])     # [0, 1]
+print(list[1][0])  # 2
+```
+
+4. Using this list, assert that each element in this list navigates to the correct page
