@@ -188,3 +188,51 @@ In that case, you would have a single test function that had 4 separate test cas
 You would only need to switch out the `make`, `model` and `year` variables with the data from this table.
 
 > HINT: Pytest's `@pytest.mark.parameratize` decorator will be helpful once you have read the data from the file.
+
+## Challenge 11
+---
+
+Create `test_challenge11.py`.
+
+1. Write a webcrawler that will navigate to every page on copart.com
+
+> Don't worry about crawling all of the data for now because we don't want to seem like we're doing a DOS Attack
+
+## Challenge 12
+---
+
+This is the final challenge for the Level 2 Certification.
+
+This challenge will act as sort of a "Master Thesis" meaning that you need to do your own research and build your own solution.
+
+### Acceptance Criteria
+
+1. Create a mechanism to automatically trigger your tests
+2. Hook your tests to a reporting framework
+
+### Continuous Testing
+
+Part 1 of this challenge is to automatically trigger your tests. There are so many ways to do this, but to give you some help as to the tools that are out there, here's a list of possible options (remember, there are more):
+
+* Jenkins
+* TeamCity
+* Bamboo
+* Code Fresh
+
+### Reporting
+
+Part 2 of this challenge is to make your tests self-reporting. Again, there are many ways to do this. Maybe you save a spreadsheet with your results or send yourself an email.
+
+### Conclusion
+
+Challenge 12 is an opportunity to show what you learned throughout these challenges and really be creative and express your thoughts and ideas as code. Have fun with it, and as always, let us know if you have any questions.
+
+GOOD LUCK!
+
+## CERTIFICATION COMPLETE!
+
+1. Push all of your completed code to your repo
+2. Notify `Matt Chiang` or `Carlos Kidman`
+3. Code Review will be done
+4. Complete any requests that are given from review
+5. Once the challenges are signed off, you will receive the certification!
