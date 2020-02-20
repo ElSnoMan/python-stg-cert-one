@@ -162,3 +162,28 @@ Create `test_challenge9.py` and write a test that does the following:
 2. Part of your test(s) needs to assert that those elements are of the correct Type.
 
 > Example, "lotNumberStr" should be a String
+
+### Challenge 10
+---
+
+> This is also an extension of Challenge 8.
+
+Create `test_challenge10.py` and write a test that does the following:
+
+1. You will be reading data from an Excel Spreadsheet or CSV file.
+2. Depending on the columns and rows of data, you will generate test cases from this
+
+For example, you may have a data table that looks like this:
+
+```
+   |     MAKE     |     MODEL     |     YEAR      
+___|_____________________________________________
+1  |    toyota    |               |
+2  |              |     camry     |
+3  |              |               |     1997
+4  |    toyota    |     avalon    |     2018
+```
+
+In that case, you would have a single test function that had 4 separate test cases.
+
+> HINT: You can do this with Pytest's `@pytest.mark.parameratize` decorator
