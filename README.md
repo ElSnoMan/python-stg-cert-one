@@ -1,7 +1,7 @@
-# Python WebDriver STG Certification: Level 1
+# Python WebDriver STG Certification: Level 1 & 2
 
 ## Overview
-This certification is meant to introduce you to Python and Selenium for testing and automation.
+This certification is meant to introduce you to Python and Selenium for testing (UI & API) and automation.
 
 To get started and follow along, make sure to setup your machine and project to use Python. You can do this by following the instructions for our standardized setup in this google doc:
 
@@ -27,7 +27,7 @@ This README will contain the high-level overview and requirements for each chall
 
 Also, you will have access to the code base which will provide structure and examples so you can have a reference.
 
-## CHALLENGES
+## LEVEL 1 CHALLENGES
 
 ### Pre-Challenge: Setup Selenium
 
@@ -98,6 +98,8 @@ Part 2 - Using the same, first three steps of Part 1, write a test that then doe
 
 ### Challenge 6
 ---
+
+Create `test_challenge6.py` and write a test that does the following:
 
 1. Go to copart.com
 2. Search for 'nissan'
