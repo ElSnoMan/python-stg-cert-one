@@ -115,3 +115,38 @@ Create `test_challenge7.py` and write a test that does the following:
 2. Look at the `Makes/Models` section of the page
 3. Create a `two-dimensional` list that stores the names of the Make/Model as well as their URLs
 4. Check that each element in this list navigates to the correct page
+
+### Level 1 Complete!
+
+1. Push all of your completed code to your repo
+2. Notify `Matt Chiang` or `Carlos Kidman`
+3. Code Review will be done
+4. Complete any requests that are given from review
+5. Once the challenges are signed off, you will receive the certification!
+
+
+## LEVEL 2 CHALLENGES
+
+### Setup to work with HTTP Clients
+
+Now that you have done some work in Python and Selenium, we are going to go level deeper and work with RESTful APIs and data. We will use a library called `requests` to make working with these APIs easier.
+
+1. Open the Terminal in PyCharm
+2. Install `requests`
+
+```bash
+$ pip install requests
+```
+
+3. All set! You can now `import requests`
+
+### Challenge 8
+---
+
+The API Endpoint
+https://www.copart.com/public/lots/search
+
+Create a `test_challenge8.py` and write a test that does the following:
+
+1. Using the above endpoint, search for `Toyota Camry` and print the results
+2. Do this for 9 other cars that you like. ('Nissan Maxima', etc.) 
