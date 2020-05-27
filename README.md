@@ -66,7 +66,16 @@ Create `test_challenge3.py` and write a test that does the following:
 ### Challenge 4
 ---
 
-Fibonacci (TBD)
+Fibonacci (recursion)
+
+Create `test_challenge4.py` and write a test that does the following:
+
+1. Displays the fibonnaci sequence for N numbers
+2. However, print the number(s) as English words
+
+> Example: If the sequence is `18`, then print `"Eighteen"`
+
+> Example: If the seqence is `120`, then print `"One Hundred Twenty"`
 
 ### Challenge 5
 ---
